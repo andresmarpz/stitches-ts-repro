@@ -1,1 +1,2 @@
-export { styled} from './stitches.config'
+export { styled } from './stitches.config';
+
